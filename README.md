@@ -1,6 +1,6 @@
 # IA-applied-to-finance-RoboAdvisor
 
-Robotic advisors create and manage investment portfolios through automated processes. The objective is to create a personalized investment portfolio for each client, which takes into account the preferences of each user, their knowledge, their experience, their objectives and other issues that determine their risk profile, in order to separate them from the assembly process. of your investment portfolio and its rebalancing over time. These strategies used by RoboAdvisors are usually classified as Passive strategies, which do not have the objective of trying to obtain a higher yield than the market, but rather to replicate it through indices
+Robotic advisors create and manage investment portfolios through automated processes. The objective is to create a personalized investment portfolio for each client, which takes into account the preferences of each user, their knowledge, their experience, their objectives and other issues that determine their risk profile, in order to separate them from the assembly process. of your investment portfolio and its rebalancing over time. These strategies used by RoboAdvisors are usually classified as Passive strategies, which do not have the objective of trying to obtain a higher yield than the market, but rather to replicate it through indices.
 This project aims to create an initial model of Robo Advisor in order to demonstrate its operation on a smaller scale.
 
 
