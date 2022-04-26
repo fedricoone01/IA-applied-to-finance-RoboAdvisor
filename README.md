@@ -5,7 +5,7 @@ This project aims to create an initial model of Robo Advisor in order to demonst
 
 
 # How does it work?
-For this project, we proceeded to build 3 possible risk profiles for the user, classified as "Conservative", "Moderate" and "Aggressive". It is determined by answering 5 questions from the user, to determine the degree of risk aversion of the user. Once this is obtained, the RoboAdvisor proceeds to recommend one of three possible portfolios created
+For this project, we proceeded to build 3 possible risk profiles for the user, classified as "Conservative", "Moderate" and "Aggressive". It is determined by answering 5 questions from the user, to determine the degree of risk aversion of him. Once this is obtained, the RoboAdvisor proceeds to recommend one of three possible portfolios created
 
 # How is the portfolio selection made?
 Regarding the method used for the selection of portfolios, the one proposed by Harry Markowitz known as "Modern Portfolio Selection Theory" was obtained. The reason for its choice lies in a survey that indicates that 40% of the systems of this type in the world use it, placing it as the main option.
