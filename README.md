@@ -13,6 +13,10 @@ For portfolio selection, 10.000 portfolios were created with random weights, eac
 
 # What ML algorithm is used?
 In the first instance, a comparison was made between 3 classification models, known as "Decision Tree", "Support Vector Machine" and "Linear Discrimination" to determine which presented the best results obtained through the Confusion Matrix. Both Decision Tree and Vector Support Machine presented 100% precision, recall and accuracy in their results, but the former was chosen because it was more robust and easier to interpret its results to a public not immersed in the topic.
+
+## Link to video https://www.youtube.com/watch?v=2iegeI53GNg&t=230s
+
+
 It was trained with a fictitious database composed of 500 users.
 
 ![image](https://user-images.githubusercontent.com/65466700/165305928-3d24ea82-ca96-4fa9-9ba0-8f2af3b92cd1.png)
